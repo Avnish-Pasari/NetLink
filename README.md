@@ -1,4 +1,4 @@
-# 🖧 Network Router & Stack
+# 🖧 NetLink – Custom Network Router
 
 A modular **Network Router and TCP/IP Stack** implemented in **C++**.  
 The project builds a simplified yet fully functional link-layer interface and router supporting Ethernet, ARP, IPv4, and routing with longest-prefix-match.
